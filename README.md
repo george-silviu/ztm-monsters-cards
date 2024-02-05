@@ -1,6 +1,6 @@
 # Monsters Cards
 
-Date : 05/02/2024 \
+Date : 05/02/2024 
 
 **This project was created during the Complete React Developer in 2024 (w/ Redux, Hooks, GraphQL): Zero to Mastery course.** \
 
