@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Monsters Cards
+
+Date : 05/02/2024
+Project goal : This project was created during the Complete React Developer in 2024 (w/ Redux, Hooks, GraphQL): Zero to Mastery course.
+Description : 
+  
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
