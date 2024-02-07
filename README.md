@@ -11,8 +11,10 @@ Description : The project displays a list of cards with users (monsters) informa
 Color palette : https://coolors.co/palette/004b23-006400-007200-008000-38b000-70e000-9ef01a-ccff33
 
 Key React concepts learned:
-
 - Class Components VS Functional Components
 - State and Props
 - Render and Re-rendering lifecycles
 - Project code structure
+
+Improvements to do: 
+- Responsive layoutt
