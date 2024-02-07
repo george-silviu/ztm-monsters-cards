@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ztm-monsters-cards/static/css/main.2231b5a1.css",
+    "main.js": "/ztm-monsters-cards/static/js/main.2cd1b990.js",
+    "static/js/787.d7183e29.chunk.js": "/ztm-monsters-cards/static/js/787.d7183e29.chunk.js",
+    "index.html": "/ztm-monsters-cards/index.html",
+    "main.2231b5a1.css.map": "/ztm-monsters-cards/static/css/main.2231b5a1.css.map",
+    "main.2cd1b990.js.map": "/ztm-monsters-cards/static/js/main.2cd1b990.js.map",
+    "787.d7183e29.chunk.js.map": "/ztm-monsters-cards/static/js/787.d7183e29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2231b5a1.css",
+    "static/js/main.2cd1b990.js"
+  ]
+}
