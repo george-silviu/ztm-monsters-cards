@@ -17,4 +17,4 @@ Key React concepts learned:
 - Project code structure
 
 Improvements to do: 
-- Responsive layoutt
+- Responsive layout
